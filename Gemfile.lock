@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    signal-bug-testcase (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+    rake-compiler (1.2.5)
+      rake
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  rake
+  rake-compiler
+  signal-bug-testcase!
+
+BUNDLED WITH
+   2.4.14
